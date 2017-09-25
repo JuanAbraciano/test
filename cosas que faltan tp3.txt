@@ -1,2 +1,5 @@
 -ecmascript 6
 -validar los inputs
+added
+added
+added
